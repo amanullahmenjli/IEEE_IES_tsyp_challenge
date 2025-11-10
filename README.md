@@ -384,14 +384,6 @@ ctest
 - ADCS interface
 - System integration
 
-**Testing & Validation:**
-- Unit tests
-- Integration tests
-- Performance benchmarking
-- Documentation
-
----
-
 ## 📚 References
 
 1. **MPPT Algorithms:**
@@ -413,31 +405,6 @@ ctest
 
 [Specify license - e.g., MIT, Apache 2.0]
 
----
-
-## 📞 Contact
-
-**Project Repository:** https://github.com/Aziz-Torkhani7/ies_tsyp
-
-**Team Lead:** [Your Name]  
-**Email:** [your.email@domain.com]
-
-**For Challenge Organizers:**  
-IEEE IES TSYP Challenge 2025  
-Questions: [challenge.contact@ieee.org]
-
----
-
-## 🏆 Acknowledgments
-
-Special thanks to:
-- **IEEE IES** for organizing the TSYP Challenge
-- **NASA** for the battery degradation dataset
-- **ESA** for space debris data
-- **TensorFlow** team for TFLite framework
-- **Open-source community** for invaluable tools
-
----
 
 **🚀 Advancing Autonomous Space Exploration, One CubeSat at a Time**
 
